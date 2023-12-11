@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_mishlist.mishlist</id>
+        <multiple_connections>false</multiple_connections>
+        <name>mishlist</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-11 13:42:21</sys_created_on>
+        <sys_id>d95f06adf14331107f44933c6d010e4c</sys_id>
+        <sys_name>x_snc_mishlist.mishlist</sys_name>
+        <sys_package display_value="mishlist" source="x_snc_mishlist">4aca4ea5f14331107f44933c6d010ec7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="mishlist">4aca4ea5f14331107f44933c6d010ec7</sys_scope>
+        <sys_update_name>sys_alias_d95f06adf14331107f44933c6d010e4c</sys_update_name>
+        <type>connection</type>
+    </sys_alias>
+</record_update>
